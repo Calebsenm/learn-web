@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+<html>
+    <head> 
+        <title>Document</title>
+    </head>
+    <body>
+        <a href="https://google.com">
+            <button style="
+                background-color:green;
+                border-radius:15px;
+                font-size: 25px;
+            "> Visit Google </button>
+        </a>
+
+        
+        <p id="greeting">Hello</p>
+        
+        <button onclick="dosometing()" style="
+                background-color:aqua;
+                border-radius:15px;
+                font-size: 25px;
+        "> Click Me  </button>
+        <script>
+            function dosometing(){
+                document.getElementById("greeting").innerHTML ="Good Bye";
+            } 
+        </script>
+    </body>
+</html>
