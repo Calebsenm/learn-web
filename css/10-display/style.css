@@ -1,0 +1,56 @@
+
+#div1 {
+    background-color: aqua; 
+    display:inline;
+}
+
+#span1 {
+   background-color: red; 
+}
+
+
+#div2 {
+    background-color: aqua; 
+    width: 50px;
+    height: 50px;
+}
+
+#span2 {
+    background-color: red; 
+    height:50px;
+    width: 50px;
+    display: block;
+}
+
+#div3 {
+    background-color: aqua; 
+    width: 50px;
+    height: 50px;
+    display:inline-block;
+}
+
+
+#span3 {
+    background-color: red; 
+    height:50px;
+    width: 50px;
+    display: inline-block;
+}
+
+
+#div4 {
+    background-color: aqua; 
+    width: 50px;
+    height: 50px;
+    display:inline-block;
+    visibility: hidden;
+}
+
+#span4{
+    background-color: aqua; 
+    width: 50px;
+    height: 50px;
+    display:inline-block;
+}
+
+

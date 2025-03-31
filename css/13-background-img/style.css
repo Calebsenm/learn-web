@@ -1,0 +1,12 @@
+body {
+    background-image: url(avinci-song.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p {
+    color: red;
+    font-size: 30px;
+}

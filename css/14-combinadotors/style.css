@@ -1,0 +1,25 @@
+
+#container {
+    border: 2px solid; 
+}
+
+/*only inside*/
+#container p {
+    background-color: red;
+}
+
+/*all inside only inside no others */
+#container > p {
+    background-color: red;
+}
+
+/*alls */
+#container ~ p {
+    background-color: red;
+}
+
+/*Next*/
+#container + {
+    background-color: red;
+}
+

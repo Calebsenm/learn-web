@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+#p1{
+    color: green;
+}
+
+#p2{
+    color: red;
+}
+
+#p3{
+    color: yellow;
+}
+
+#p4{
+    color: blue;
+}
+
+.p1 {
+    color: aqua;
+}
+.p2 {
+    color: orange;
+}

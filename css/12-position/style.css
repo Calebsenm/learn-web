@@ -1,0 +1,86 @@
+/*
+ 
+    relative = positioned  to where  it normally 
+    fixed  = positioned to the vieport 
+    absolute = position relative to nearest ancestor  
+    sticky = positioned based on scroll position 
+    static = default position for a element  
+
+
+
+ */
+
+
+
+#box1 {
+    width:200px; 
+    height: 200px; 
+    background-color: aqua; 
+    position: relative;
+    top: 50px; 
+    left: 50px;
+    
+}
+
+#box2 {
+    width:200px; 
+    height: 200px; 
+    background-color: red; 
+    position: fixed;
+    right:0px;
+    bottom:0px ; 
+}  
+
+
+#box3{
+    background-color: yellow; 
+    width: 200px;
+    height: 200px; 
+    position: fixed;
+    top: 100px; 
+    left: 100px;  
+}
+
+#box4{
+    background-color: orange; 
+    width: 100px;
+    height: 100px; 
+    position: absolute;
+    top: 50px; 
+    left: 50px;  
+}
+
+#box5{
+    background-color: green; 
+    width: 200px;
+    height: 200px; 
+    position: sticky;
+    top: 0px; 
+}
+
+#box6{
+    background-color: red; 
+    width: 100px;
+    height: 100px; 
+    position: absolute;
+    top: 50px; 
+    left: 50px;  
+}
+
+#box7{
+    background-color: green; 
+    width: 200px;
+    height: 200px; 
+    position: sticky;
+    top: 0px; 
+}
+
+#box8{
+    background-color: red; 
+    width: 100px;
+    height: 100px; 
+    position: static;
+    top: 50px; 
+    left: 50px;  
+}
+

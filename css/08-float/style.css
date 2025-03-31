@@ -1,0 +1,18 @@
+
+body {
+    border: solid;
+    display: flow-root;
+}
+
+#img1 {
+    float: left;
+    margin-right: 10px;
+}
+
+
+#img2 {
+    float: right;
+    margin-right: 10px;
+}
+
+

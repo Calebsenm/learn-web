@@ -1,0 +1,30 @@
+
+body {
+    margin: 0px;
+}
+
+.box {
+    border: 5px solid;
+    font-size: 50px;
+    width: 250px;
+    height: 250px;
+}
+
+#box1 {
+    background-color: red;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#box2 {
+    background-color: blue;
+    margin-left: 50px;
+}
+
+#box3 {
+    background-color: aqua;
+    margin: auto;
+}
+
+
